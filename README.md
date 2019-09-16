@@ -7,6 +7,10 @@ This program is distributed under the terms of the GNU General Public License 3
 GUIMesh is a Graphical User Interface that converts STEP geometries to GDML format allowing
 to import this geometries into Geant4
 
+### Citation / Reference
+GUIMesh is published in: https://doi.org/10.1016/j.cpc.2019.01.024. It has a full description of the program as well as all the tests done. You can request me the document via e-mail.
+Please cite the paper if you found GUIMesh useful for your work.
+
 ### Dependencies
 GUIMesh requires:
 
